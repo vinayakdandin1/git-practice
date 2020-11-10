@@ -1,3 +1,3 @@
 Name: Vinayak Dandin
 Age: 30
-Favorite Color: Black
+Favorite Color: My favourite color is Black.
